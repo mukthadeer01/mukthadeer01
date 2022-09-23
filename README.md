@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mukthadeer01
-- 👀 I’m interested in cloud developer
-- 🌱 I’m currently learning AWS cloud practitioner
-- 💞️ I’m looking to collaborate on AWS
+- 👋 Hi, I’m @mukthadeer
+- 👀 I’m interested in Architect Associate
+- 🌱 I’m currently learning AWS Architect Solution Associate
+- 💞️ I’m looking to collaborate on Amazon Web Services
 - 📫 How to reach me mukthadeerahamed@gmail.com
 
 <!---
