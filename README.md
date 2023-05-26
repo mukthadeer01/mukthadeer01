@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @mukthadeer
-- I'm and ECE Graduate of 2023
+- 👋 Hi, I’m @mukthadeer_01
 - 👀 I’m interested in DevOps Engineer
 - 🌱 I’m currently learning DevOps on AWS Specialization, CI/CD Pipelines, Newtwork Protocal
 - 💞️ I’m looking to collaborate on Amazon Web Services
